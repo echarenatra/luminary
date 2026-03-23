@@ -72,10 +72,10 @@ class QuoteService {
     return pool[index];
   }
 
-  /* ─────────────────────────────────────
+/* ─────────────────────────────────────
      GET DAILY QUOTE
-     Same quote all day, changes at midnight.
-     Seeded by today's date — deterministic.
+     Unique random quote per device.
+     Locks in for the day via localStorage.
   ───────────────────────────────────── */
   async getDaily() {
     await this.init();
@@ -90,9 +90,8 @@ class QuoteService {
       if (quote) return quote;
     }
 
-    // Generate new daily quote seeded by today's date
-    const seed  = this._dateToSeed(today);
-    const index = seed % this._quotes.length;
+    // Generate a UNIQUE daily quote for this device by picking randomly
+    const index = Math.floor(Math.random() * this._quotes.length);
     const quote = this._quotes[index];
 
     // Persist for the rest of the day
@@ -148,12 +147,6 @@ class QuoteService {
     const m   = String(now.getMonth() + 1).padStart(2, '0');
     const d   = String(now.getDate()).padStart(2, '0');
     return `${y}-${m}-${d}`;
-  }
-
-  // Converts 'YYYY-MM-DD' to a stable integer seed
-  _dateToSeed(dateStr) {
-    const n = parseInt(dateStr.replace(/-/g, ''), 10);
-    return ((n * 2654435761) >>> 0) % 100000;
   }
 
 }

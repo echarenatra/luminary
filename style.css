@@ -1029,6 +1029,7 @@ kbd {
   margin-bottom: 6px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
+  line-clamp: 2; /* Add this line to fix the warning */
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -1229,7 +1230,7 @@ kbd {
   width: 1080px;
   height: 1080px;
   pointer-events: none;
-  aria-hidden: true;
+  /* aria-hidden removed */
 }
 
 .export-card-inner {
