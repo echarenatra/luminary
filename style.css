@@ -797,12 +797,22 @@ svg[hidden] {
   align-items: center;
   justify-content: center;
   position: relative;
+  /* Ensure the container only wraps the center button */
+  width: fit-content;
+  margin: 0 auto;
 }
 
 #btn-prev {
   position: absolute;
   right: 100%;
   margin-right: var(--space-sm);
+}
+
+/* Pin the new right arrow to the right outside edge */
+#btn-next-arrow {
+  position: absolute;
+  left: 100%;
+  margin-left: var(--space-sm);
 }
 
 .btn-nav {

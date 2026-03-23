@@ -155,6 +155,8 @@
       // Update favorite button state
       updateFavoriteButton(quote.id);
 
+      updateNavButtons(); // Add this line here
+
       // Update URL without reload (deep link support)
       const url = new URL(window.location);
       url.searchParams.set('q', quote.id);
@@ -187,14 +189,14 @@
   async function showNext() {
     if (state.isAnimating) return;
 
-    // For swipe/keyboard: If we're not at the end of history, move forward
+    // 1. If there is history to move into, just move forward
     if (state.historyIndex < state.history.length - 1) {
       state.historyIndex++;
       renderQuote(state.history[state.historyIndex], 'next');
       return;
     }
 
-    // Otherwise fetch a new random quote
+    // 2. Otherwise, if we are at the end, fetch a brand new quote
     await generateNewQuote();
   }
 
@@ -221,6 +223,16 @@
     renderQuote(state.history[state.historyIndex], 'prev');
   }
 
+  function updateNavButtons() {
+    if (!dom.btnPrev) return;
+    
+    // Disable/dim the Back arrow if we are at the very first quote
+    const atStart = state.historyIndex <= 0;
+    dom.btnPrev.disabled = atStart;
+    dom.btnPrev.style.opacity = atStart ? '0.3' : '1';
+    dom.btnPrev.style.pointerEvents = atStart ? 'none' : 'auto';
+  }
+
 
   /* ═══════════════════════════════════════
      DAILY QUOTE
@@ -236,7 +248,7 @@
       dom.quoteAuthor.textContent   = quote.author;
       dom.quoteCategory.textContent = quote.category;
       updateFavoriteButton(quote.id);
-
+      updateNavButtons();
       // Set deep link URL
       const url = new URL(window.location);
       url.searchParams.set('q', quote.id);
@@ -262,6 +274,7 @@
       dom.quoteAuthor.textContent   = quote.author;
       dom.quoteCategory.textContent = quote.category;
       updateFavoriteButton(quote.id);
+      updateNavButtons(); // Add this line here
       return true;
     }
     return false;
@@ -699,10 +712,13 @@
     // Theme toggle
     dom.btnTheme?.addEventListener('click', toggleTheme);
 
-    // Next quote (Always generate a brand new one)
+    // New quote (Always generate a brand new one)
     dom.btnNext?.addEventListener('click', generateNewQuote);
 
-    // Prev quote
+    // Forward Arrow (Only browse history)
+    dom.btnNextArrow?.addEventListener('click', showNext);
+
+    // Prev quote (Only browse history)
     dom.btnPrev?.addEventListener('click', showPrev);
 
     // Copy
