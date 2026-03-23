@@ -1320,9 +1320,25 @@ kbd {
     min-height: 200px;
   }
 
+  /* 1. Add more horizontal padding to the text so it clears the marks */
   .quote-text {
     font-size: clamp(1.125rem, 5vw, 1.5rem);
-    padding: 0 var(--space-xs);
+    padding: 0 var(--space-lg); /* Changed from var(--space-xs) */
+  }
+
+  /* 2. Shrink the marks and push them outward on small screens */
+  .quote-mark {
+    font-size: 3rem; 
+  }
+  
+  .quote-mark-open {
+    top: 1rem;
+    left: 0.75rem; 
+  }
+  
+  .quote-mark-close {
+    bottom: 0.75rem;
+    right: 0.75rem;
   }
 
   .btn-action span {
