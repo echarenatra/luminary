@@ -772,9 +772,6 @@
      INIT
   ═══════════════════════════════════════ */
   async function init() {
-    // Init Lucide icons
-    if (window.lucide) window.lucide.createIcons();
-
     // Load favorites from localStorage
     loadFavorites();
     updateFavoritesCount();
