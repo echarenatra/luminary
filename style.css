@@ -795,7 +795,14 @@ svg[hidden] {
 .quote-nav {
   display: flex;
   align-items: center;
-  gap: var(--space-sm);
+  justify-content: center;
+  position: relative;
+}
+
+#btn-prev {
+  position: absolute;
+  right: 100%;
+  margin-right: var(--space-sm);
 }
 
 .btn-nav {

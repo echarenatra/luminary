@@ -187,7 +187,7 @@
   async function showNext() {
     if (state.isAnimating) return;
 
-    // If we're not at the end of history, move forward
+    // For swipe/keyboard: If we're not at the end of history, move forward
     if (state.historyIndex < state.history.length - 1) {
       state.historyIndex++;
       renderQuote(state.history[state.historyIndex], 'next');
@@ -195,12 +195,20 @@
     }
 
     // Otherwise fetch a new random quote
+    await generateNewQuote();
+  }
+
+  async function generateNewQuote() {
+    if (state.isAnimating) return;
+    
+    // Always fetch a fresh random quote
     const quote = await quoteService.getRandom(
       state.currentCategory,
       state.currentQuote?.id ?? null
     );
+    
     if (quote) {
-      pushToHistory(quote);
+      pushToHistory(quote); // Automatically trims forward history if they went back!
       renderQuote(quote, 'next');
     }
   }
@@ -691,9 +699,8 @@
     // Theme toggle
     dom.btnTheme?.addEventListener('click', toggleTheme);
 
-    // Next quote
-    dom.btnNext?.addEventListener('click', showNext);
-    dom.btnNextArrow?.addEventListener('click', showNext);
+    // Next quote (Always generate a brand new one)
+    dom.btnNext?.addEventListener('click', generateNewQuote);
 
     // Prev quote
     dom.btnPrev?.addEventListener('click', showPrev);
