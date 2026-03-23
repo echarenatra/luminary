@@ -1,0 +1,21 @@
+{
+  "name": "Luminary — A new light, every day.",
+  "short_name": "Luminary",
+  "description": "Daily inspiration quotes. Beautiful, minimal, and free.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAF9F6",
+  "theme_color": "#FAF9F6",
+  "categories": ["lifestyle", "education"],
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "lang": "en"
+}

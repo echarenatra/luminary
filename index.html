@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Luminary — A new light, every day. Daily inspiration quotes." />
+  <meta name="theme-color" content="#FAF9F6" id="meta-theme-color" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Luminary" />
+  <meta property="og:description" content="A new light, every day." />
+  <meta property="og:type" content="website" />
+
+  <title>Luminary — A new light, every day.</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/favicon.svg" />
+
+  <!-- Fonts (T-09) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Lucide Icons (T-10) -->
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json" />
+</head>
+
+<body>
+
+  <!-- ═══════════════════════════════════════
+       HEADER
+  ═══════════════════════════════════════ -->
+  <header class="site-header" role="banner">
+    <div class="header-inner">
+
+      <!-- Logo -->
+      <a href="/" class="logo" aria-label="Luminary — Home">
+        <svg class="logo-icon" width="22" height="26" viewBox="0 0 28 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M14 1C14 1 5 9.5 5 17.5C5 22.6 9.03 27 14 27C18.97 27 23 22.6 23 17.5C23 9.5 14 1 14 1Z" fill="currentColor" opacity="0.90"/>
+          <path d="M14 10C14 10 10 14.5 10 17.8C10 20.12 11.79 22 14 22C16.21 22 18 20.12 18 17.8C18 14.5 14 10 14 10Z" fill="currentColor" opacity="0.35"/>
+          <rect x="12.5" y="27" width="3" height="4" rx="1.5" fill="currentColor" opacity="0.45"/>
+        </svg>
+        <span class="logo-wordmark">Luminary</span>
+      </a>
+
+      <!-- Header Actions -->
+      <div class="header-actions">
+
+        <!-- Category Filter Toggle -->
+        <button
+          class="btn-icon"
+          id="btn-filter"
+          aria-label="Filter by category"
+          aria-expanded="false"
+          aria-controls="category-drawer"
+        >
+          <i data-lucide="sliders-horizontal"></i>
+        </button>
+
+        <!-- Favorites Toggle -->
+        <button
+          class="btn-icon"
+          id="btn-favorites"
+          aria-label="Saved quotes"
+          aria-expanded="false"
+          aria-controls="favorites-drawer"
+        >
+          <i data-lucide="bookmark"></i>
+          <span class="favorites-count" id="favorites-count" aria-live="polite" hidden>0</span>
+        </button>
+
+        <!-- Theme Toggle -->
+        <button
+          class="btn-icon btn-theme"
+          id="btn-theme"
+          aria-label="Switch to dark mode"
+        >
+          <i data-lucide="sun" class="icon-sun"></i>
+          <i data-lucide="moon" class="icon-moon"></i>
+        </button>
+
+      </div>
+    </div>
+  </header>
+
+
+  <!-- ═══════════════════════════════════════
+       CATEGORY FILTER DRAWER
+  ═══════════════════════════════════════ -->
+  <aside
+    class="drawer drawer-top"
+    id="category-drawer"
+    role="region"
+    aria-label="Category filter"
+    hidden
+  >
+    <div class="drawer-inner">
+      <p class="drawer-label">Filter by category</p>
+      <nav class="category-chips" aria-label="Quote categories">
+        <button class="chip chip-active" data-category="all">All</button>
+        <button class="chip" data-category="courage">Courage</button>
+        <button class="chip" data-category="mindset">Mindset</button>
+        <button class="chip" data-category="creativity">Creativity</button>
+        <button class="chip" data-category="stoicism">Stoicism</button>
+        <button class="chip" data-category="success">Success</button>
+        <button class="chip" data-category="kindness">Kindness</button>
+        <button class="chip" data-category="love">Love</button>
+        <button class="chip" data-category="wisdom">Wisdom</button>
+      </nav>
+    </div>
+  </aside>
+
+
+  <!-- ═══════════════════════════════════════
+       MAIN CONTENT
+  ═══════════════════════════════════════ -->
+  <main class="main" id="main" role="main">
+
+    <!-- Daily Quote Badge -->
+    <div class="daily-badge" aria-label="Today's quote">
+      <i data-lucide="sunrise" aria-hidden="true"></i>
+      <span>Today's Quote</span>
+    </div>
+
+    <!-- Quote Card -->
+    <article class="quote-card" id="quote-card" aria-live="polite" aria-atomic="true">
+      <div class="quote-card-inner">
+
+        <!-- Opening decorative quote mark -->
+        <span class="quote-mark quote-mark-open" aria-hidden="true">&ldquo;</span>
+
+        <blockquote class="quote-text" id="quote-text">
+          <!-- Quote text injected by JS -->
+        </blockquote>
+
+        <footer class="quote-footer">
+          <cite class="quote-author" id="quote-author">
+            <!-- Author injected by JS -->
+          </cite>
+          <span class="quote-category" id="quote-category">
+            <!-- Category injected by JS -->
+          </span>
+        </footer>
+
+        <!-- Closing decorative quote mark -->
+        <span class="quote-mark quote-mark-close" aria-hidden="true">&rdquo;</span>
+
+      </div>
+    </article>
+
+    <!-- Quote Actions -->
+    <div class="quote-actions" role="toolbar" aria-label="Quote actions">
+
+      <button class="btn-action" id="btn-copy" aria-label="Copy quote to clipboard">
+        <i data-lucide="copy" aria-hidden="true"></i>
+        <span>Copy</span>
+      </button>
+
+      <button class="btn-action" id="btn-share" aria-label="Share this quote">
+        <i data-lucide="share-2" aria-hidden="true"></i>
+        <span>Share</span>
+      </button>
+
+      <button class="btn-action btn-favorite" id="btn-favorite" aria-label="Save quote to favorites" aria-pressed="false">
+        <i data-lucide="heart" aria-hidden="true"></i>
+        <span>Save</span>
+      </button>
+
+      <button class="btn-action" id="btn-download" aria-label="Download quote as image">
+        <i data-lucide="download" aria-hidden="true"></i>
+        <span>Download</span>
+      </button>
+
+    </div>
+
+    <!-- Navigation -->
+    <nav class="quote-nav" aria-label="Browse quotes">
+      <button class="btn-nav" id="btn-prev" aria-label="Previous quote">
+        <i data-lucide="arrow-left" aria-hidden="true"></i>
+      </button>
+
+      <button class="btn-new" id="btn-next" aria-label="New Quote">
+        <i data-lucide="refresh-cw" aria-hidden="true"></i>
+        <span>New Quote</span>
+      </button>
+
+      <button class="btn-nav" id="btn-next-arrow" aria-label="Next quote">
+        <i data-lucide="arrow-right" aria-hidden="true"></i>
+      </button>
+    </nav>
+
+    <!-- Keyboard shortcut hint (shown once) -->
+    <p class="keyboard-hint" id="keyboard-hint" hidden>
+      <kbd>←</kbd><kbd>→</kbd> browse &nbsp;·&nbsp; <kbd>F</kbd> favorite &nbsp;·&nbsp; <kbd>C</kbd> copy &nbsp;·&nbsp; <kbd>T</kbd> theme
+    </p>
+
+  </main>
+
+
+  <!-- ═══════════════════════════════════════
+       FAVORITES DRAWER
+  ═══════════════════════════════════════ -->
+  <aside
+    class="drawer drawer-right"
+    id="favorites-drawer"
+    aria-label="Saved quotes"
+    hidden
+  >
+    <div class="drawer-header">
+      <h2 class="drawer-title">Saved Quotes</h2>
+      <button class="btn-icon" id="btn-close-favorites" aria-label="Close favorites">
+        <i data-lucide="x"></i>
+      </button>
+    </div>
+    <div class="drawer-body">
+      <ul class="favorites-list" id="favorites-list" role="list">
+        <!-- Favorites injected by JS -->
+      </ul>
+      <p class="favorites-empty" id="favorites-empty">
+        No saved quotes yet.<br />
+        <span>Hit the heart button to save one.</span>
+      </p>
+    </div>
+  </aside>
+
+  <!-- Drawer backdrop -->
+  <div class="drawer-backdrop" id="drawer-backdrop" aria-hidden="true" hidden></div>
+
+
+  <!-- ═══════════════════════════════════════
+       DOWNLOAD MODAL
+  ═══════════════════════════════════════ -->
+  <dialog
+    class="modal"
+    id="download-modal"
+    aria-labelledby="modal-title"
+    aria-modal="true"
+  >
+    <div class="modal-inner">
+      <h2 class="modal-title" id="modal-title">Download Quote Card</h2>
+      <p class="modal-subtitle">Choose a style for your image</p>
+
+      <div class="modal-options">
+        <button class="modal-option" data-export-theme="light" aria-label="Download in light style">
+          <span class="modal-option-preview modal-option-light">Aa</span>
+          <span>Light</span>
+        </button>
+        <button class="modal-option" data-export-theme="dark" aria-label="Download in dark style">
+          <span class="modal-option-preview modal-option-dark">Aa</span>
+          <span>Dark</span>
+        </button>
+      </div>
+
+      <button class="btn-icon modal-close" id="btn-close-modal" aria-label="Cancel download">
+        <i data-lucide="x"></i>
+      </button>
+    </div>
+  </dialog>
+
+
+  <!-- ═══════════════════════════════════════
+       TOAST NOTIFICATION
+  ═══════════════════════════════════════ -->
+  <div
+    class="toast"
+    id="toast"
+    role="status"
+    aria-live="polite"
+    aria-atomic="true"
+    hidden
+  >
+    <i data-lucide="check" aria-hidden="true"></i>
+    <span id="toast-message">Copied!</span>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════
+       OFF-SCREEN EXPORT CARD (for html2canvas)
+  ═══════════════════════════════════════ -->
+  <div class="export-card" id="export-card" aria-hidden="true">
+    <div class="export-card-inner">
+      <div class="export-logo">
+        <span>🕯️</span>
+        <span class="export-logo-text">Luminary</span>
+      </div>
+      <blockquote class="export-quote" id="export-quote"></blockquote>
+      <cite class="export-author" id="export-author"></cite>
+      <p class="export-tagline">luminary.app</p>
+    </div>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════
+       FOOTER
+  ═══════════════════════════════════════ -->
+  <footer class="site-footer" role="contentinfo">
+    <p class="footer-text">
+      Made with <span aria-label="love">♥</span> · <a href="/" class="footer-link">Luminary</a>
+    </p>
+  </footer>
+
+
+  <!-- html2canvas (image export) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" defer></script>
+
+  <!-- Scripts -->
+  <script src="quote-service.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>

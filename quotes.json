@@ -1,0 +1,3604 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Courage is not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "category": "courage"
+    },
+    {
+      "id": 2,
+      "text": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 3,
+      "text": "It takes courage to grow up and become who you really are.",
+      "author": "E.E. Cummings",
+      "category": "courage"
+    },
+    {
+      "id": 4,
+      "text": "Bravery is not the absence of fear but the forging ahead despite being afraid.",
+      "author": "Robert Liparulo",
+      "category": "courage"
+    },
+    {
+      "id": 5,
+      "text": "The most courageous act is still to think for yourself. Aloud.",
+      "author": "Coco Chanel",
+      "category": "courage"
+    },
+    {
+      "id": 6,
+      "text": "Scared is what you're feeling. Brave is what you're doing.",
+      "author": "Emma Donoghue",
+      "category": "courage"
+    },
+    {
+      "id": 7,
+      "text": "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.",
+      "author": "Steve Jobs",
+      "category": "courage"
+    },
+    {
+      "id": 8,
+      "text": "Life shrinks or expands in proportion to one's courage.",
+      "author": "Anaïs Nin",
+      "category": "courage"
+    },
+    {
+      "id": 9,
+      "text": "Courage is the first of human qualities because it is the quality which guarantees all others.",
+      "author": "Winston Churchill",
+      "category": "courage"
+    },
+    {
+      "id": 10,
+      "text": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 11,
+      "text": "The brave man is not he who does not feel afraid, but he who conquers that fear.",
+      "author": "Nelson Mandela",
+      "category": "courage"
+    },
+    {
+      "id": 12,
+      "text": "Courage doesn't always roar. Sometimes it's the quiet voice at the end of the day saying I will try again tomorrow.",
+      "author": "Mary Anne Radmacher",
+      "category": "courage"
+    },
+    {
+      "id": 13,
+      "text": "Be bold, be courageous, be your best.",
+      "author": "Gabrielle Giffords",
+      "category": "courage"
+    },
+    {
+      "id": 14,
+      "text": "Fortune favors the bold.",
+      "author": "Virgil",
+      "category": "courage"
+    },
+    {
+      "id": 15,
+      "text": "Whatever you do, you need courage. Whatever course you decide upon, there is always someone to tell you that you are wrong.",
+      "author": "Ralph Waldo Emerson",
+      "category": "courage"
+    },
+    {
+      "id": 16,
+      "text": "Inaction breeds doubt and fear. Action breeds confidence and courage.",
+      "author": "Dale Carnegie",
+      "category": "courage"
+    },
+    {
+      "id": 17,
+      "text": "A ship in harbor is safe, but that is not what ships are built for.",
+      "author": "John A. Shedd",
+      "category": "courage"
+    },
+    {
+      "id": 18,
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "courage"
+    },
+    {
+      "id": 19,
+      "text": "Only those who dare to fail greatly can ever achieve greatly.",
+      "author": "Robert F. Kennedy",
+      "category": "courage"
+    },
+    {
+      "id": 20,
+      "text": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+      "author": "A.A. Milne",
+      "category": "courage"
+    },
+    {
+      "id": 21,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "mindset"
+    },
+    {
+      "id": 22,
+      "text": "Whether you think you can or think you can't, you're right.",
+      "author": "Henry Ford",
+      "category": "mindset"
+    },
+    {
+      "id": 23,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "mindset"
+    },
+    {
+      "id": 24,
+      "text": "Once your mindset changes, everything on the outside will change along with it.",
+      "author": "Steve Maraboli",
+      "category": "mindset"
+    },
+    {
+      "id": 25,
+      "text": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein",
+      "category": "mindset"
+    },
+    {
+      "id": 26,
+      "text": "It is not the mountain we conquer, but ourselves.",
+      "author": "Edmund Hillary",
+      "category": "mindset"
+    },
+    {
+      "id": 27,
+      "text": "The greatest discovery of my generation is that human beings can alter their lives by altering their attitudes of mind.",
+      "author": "William James",
+      "category": "mindset"
+    },
+    {
+      "id": 28,
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "category": "mindset"
+    },
+    {
+      "id": 29,
+      "text": "Change your thoughts and you change your world.",
+      "author": "Norman Vincent Peale",
+      "category": "mindset"
+    },
+    {
+      "id": 30,
+      "text": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "Charles Kingsleigh",
+      "category": "mindset"
+    },
+    {
+      "id": 31,
+      "text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "category": "mindset"
+    },
+    {
+      "id": 32,
+      "text": "We become what we think about most of the time.",
+      "author": "Earl Nightingale",
+      "category": "mindset"
+    },
+    {
+      "id": 33,
+      "text": "Your mindset is the most powerful tool you possess.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 34,
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "category": "mindset"
+    },
+    {
+      "id": 35,
+      "text": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "category": "mindset"
+    },
+    {
+      "id": 36,
+      "text": "The harder the conflict, the greater the triumph.",
+      "author": "George Washington",
+      "category": "mindset"
+    },
+    {
+      "id": 37,
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "category": "mindset"
+    },
+    {
+      "id": 38,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "mindset"
+    },
+    {
+      "id": 39,
+      "text": "What we dwell on is who we become.",
+      "author": "Oprah Winfrey",
+      "category": "mindset"
+    },
+    {
+      "id": 40,
+      "text": "I am not a product of my circumstances. I am a product of my decisions.",
+      "author": "Stephen Covey",
+      "category": "mindset"
+    },
+    {
+      "id": 41,
+      "text": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein",
+      "category": "creativity"
+    },
+    {
+      "id": 42,
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "category": "creativity"
+    },
+    {
+      "id": 43,
+      "text": "Creativity is seeing what others see and thinking what no one else has ever thought.",
+      "author": "Albert Einstein",
+      "category": "creativity"
+    },
+    {
+      "id": 44,
+      "text": "An idea that is not dangerous is unworthy of being called an idea at all.",
+      "author": "Oscar Wilde",
+      "category": "creativity"
+    },
+    {
+      "id": 45,
+      "text": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+      "author": "Pablo Picasso",
+      "category": "creativity"
+    },
+    {
+      "id": 46,
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "category": "creativity"
+    },
+    {
+      "id": 47,
+      "text": "The creative adult is the child who survived.",
+      "author": "Ursula K. Le Guin",
+      "category": "creativity"
+    },
+    {
+      "id": 48,
+      "text": "Creativity takes courage.",
+      "author": "Henri Matisse",
+      "category": "creativity"
+    },
+    {
+      "id": 49,
+      "text": "To live a creative life, we must lose our fear of being wrong.",
+      "author": "Joseph Chilton Pearce",
+      "category": "creativity"
+    },
+    {
+      "id": 50,
+      "text": "Art enables us to find ourselves and lose ourselves at the same time.",
+      "author": "Thomas Merton",
+      "category": "creativity"
+    },
+    {
+      "id": 51,
+      "text": "The world always seems brighter when you've just made something that wasn't there before.",
+      "author": "Neil Gaiman",
+      "category": "creativity"
+    },
+    {
+      "id": 52,
+      "text": "Create with the heart; build with the mind.",
+      "author": "Criss Jami",
+      "category": "creativity"
+    },
+    {
+      "id": 53,
+      "text": "Originality is nothing but judicious imitation.",
+      "author": "Voltaire",
+      "category": "creativity"
+    },
+    {
+      "id": 54,
+      "text": "The chief enemy of creativity is good sense.",
+      "author": "Pablo Picasso",
+      "category": "creativity"
+    },
+    {
+      "id": 55,
+      "text": "Creativity is the power to connect the seemingly unconnected.",
+      "author": "William Plomer",
+      "category": "creativity"
+    },
+    {
+      "id": 56,
+      "text": "Creativity is not a talent. It is a way of operating.",
+      "author": "John Cleese",
+      "category": "creativity"
+    },
+    {
+      "id": 57,
+      "text": "Make something wonderful and put it out there.",
+      "author": "Neil Young",
+      "category": "creativity"
+    },
+    {
+      "id": 58,
+      "text": "The desire to create is one of the deepest yearnings of the human soul.",
+      "author": "Dieter F. Uchtdorf",
+      "category": "creativity"
+    },
+    {
+      "id": 59,
+      "text": "Creativity involves breaking out of expected patterns in order to look at things in a different way.",
+      "author": "Edward de Bono",
+      "category": "creativity"
+    },
+    {
+      "id": 60,
+      "text": "Everything you can imagine is real.",
+      "author": "Pablo Picasso",
+      "category": "creativity"
+    },
+    {
+      "id": 61,
+      "text": "He who is brave is free.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 62,
+      "text": "We suffer more in imagination than in reality.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 63,
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 64,
+      "text": "You have power over your mind, not outside events. Realize this and you will find strength.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 65,
+      "text": "Waste no more time arguing about what a good man should be. Be one.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 66,
+      "text": "Make the best use of what is in your power, and take the rest as it happens.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 67,
+      "text": "It is not what happens to you, but how you react to it that matters.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 68,
+      "text": "First say to yourself what you would be, then do what you have to do.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 69,
+      "text": "The obstacle is the way.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 70,
+      "text": "Confine yourself to the present.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 71,
+      "text": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 72,
+      "text": "Wealth consists not in having great possessions, but in having few wants.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 73,
+      "text": "He suffers more than necessary who suffers before it is necessary.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 74,
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 75,
+      "text": "If it is not right, do not do it; if it is not true, do not say it.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 76,
+      "text": "Begin at once to live, and count each separate day as a separate life.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 77,
+      "text": "Receive without pride, abandon without struggle.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 78,
+      "text": "The best revenge is to be unlike him who performed the injury.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 79,
+      "text": "No man is free who is not master of himself.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 80,
+      "text": "Seek not the good in external things; seek it in yourselves.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 81,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "success"
+    },
+    {
+      "id": 82,
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "success"
+    },
+    {
+      "id": 83,
+      "text": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "category": "success"
+    },
+    {
+      "id": 84,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "success"
+    },
+    {
+      "id": 85,
+      "text": "The road to success and the road to failure are almost exactly the same.",
+      "author": "Colin R. Davis",
+      "category": "success"
+    },
+    {
+      "id": 86,
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson",
+      "category": "success"
+    },
+    {
+      "id": 87,
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "category": "success"
+    },
+    {
+      "id": 88,
+      "text": "The secret of success is to do the common thing uncommonly well.",
+      "author": "John D. Rockefeller",
+      "category": "success"
+    },
+    {
+      "id": 89,
+      "text": "I never dreamed about success. I worked for it.",
+      "author": "Estée Lauder",
+      "category": "success"
+    },
+    {
+      "id": 90,
+      "text": "If you really look closely, most overnight successes took a long time.",
+      "author": "Steve Jobs",
+      "category": "success"
+    },
+    {
+      "id": 91,
+      "text": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+      "author": "Colin Powell",
+      "category": "success"
+    },
+    {
+      "id": 92,
+      "text": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.",
+      "author": "Vince Lombardi",
+      "category": "success"
+    },
+    {
+      "id": 93,
+      "text": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+      "author": "Dale Carnegie",
+      "category": "success"
+    },
+    {
+      "id": 94,
+      "text": "If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.",
+      "author": "Thomas J. Watson",
+      "category": "success"
+    },
+    {
+      "id": 95,
+      "text": "There is no elevator to success. You have to take the stairs.",
+      "author": "Unknown",
+      "category": "success"
+    },
+    {
+      "id": 96,
+      "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+      "author": "Maya Angelou",
+      "category": "success"
+    },
+    {
+      "id": 97,
+      "text": "Coming together is a beginning; keeping together is progress; working together is success.",
+      "author": "Henry Ford",
+      "category": "success"
+    },
+    {
+      "id": 98,
+      "text": "It is better to fail in originality than to succeed in imitation.",
+      "author": "Herman Melville",
+      "category": "success"
+    },
+    {
+      "id": 99,
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee",
+      "category": "success"
+    },
+    {
+      "id": 100,
+      "text": "Opportunities don't happen. You create them.",
+      "author": "Chris Grosser",
+      "category": "success"
+    },
+    {
+      "id": 101,
+      "text": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear.",
+      "author": "Leo Buscaglia",
+      "category": "kindness"
+    },
+    {
+      "id": 102,
+      "text": "No act of kindness, no matter how small, is ever wasted.",
+      "author": "Aesop",
+      "category": "kindness"
+    },
+    {
+      "id": 103,
+      "text": "Kindness is the language which the deaf can hear and the blind can see.",
+      "author": "Mark Twain",
+      "category": "kindness"
+    },
+    {
+      "id": 104,
+      "text": "Be kind, for everyone you meet is fighting a harder battle.",
+      "author": "Plato",
+      "category": "kindness"
+    },
+    {
+      "id": 105,
+      "text": "Carry out a random act of kindness, with no expectation of reward.",
+      "author": "Princess Diana",
+      "category": "kindness"
+    },
+    {
+      "id": 106,
+      "text": "A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.",
+      "author": "Amelia Earhart",
+      "category": "kindness"
+    },
+    {
+      "id": 107,
+      "text": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+      "author": "Lao Tzu",
+      "category": "kindness"
+    },
+    {
+      "id": 108,
+      "text": "You cannot do a kindness too soon, for you never know how soon it will be too late.",
+      "author": "Ralph Waldo Emerson",
+      "category": "kindness"
+    },
+    {
+      "id": 109,
+      "text": "The smallest act of kindness is worth more than the grandest intention.",
+      "author": "Oscar Wilde",
+      "category": "kindness"
+    },
+    {
+      "id": 110,
+      "text": "Unexpected kindness is the most powerful, least costly, and most underrated agent of human change.",
+      "author": "Bob Kerrey",
+      "category": "kindness"
+    },
+    {
+      "id": 111,
+      "text": "When words are both true and kind, they can change the world.",
+      "author": "Buddha",
+      "category": "kindness"
+    },
+    {
+      "id": 112,
+      "text": "Be somebody who makes everybody feel like a somebody.",
+      "author": "Kid President",
+      "category": "kindness"
+    },
+    {
+      "id": 113,
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "category": "kindness"
+    },
+    {
+      "id": 114,
+      "text": "Kindness is always fashionable, and always welcome.",
+      "author": "Amelia Barr",
+      "category": "kindness"
+    },
+    {
+      "id": 115,
+      "text": "The world is changed by your example, not by your opinion.",
+      "author": "Paulo Coelho",
+      "category": "kindness"
+    },
+    {
+      "id": 116,
+      "text": "A warm smile is the universal language of kindness.",
+      "author": "William Arthur Ward",
+      "category": "kindness"
+    },
+    {
+      "id": 117,
+      "text": "Human kindness has never weakened the stamina or softened the fiber of a free people.",
+      "author": "Franklin D. Roosevelt",
+      "category": "kindness"
+    },
+    {
+      "id": 118,
+      "text": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Mahatma Gandhi",
+      "category": "kindness"
+    },
+    {
+      "id": 119,
+      "text": "Kindness is the sunshine in which virtue grows.",
+      "author": "Robert Green Ingersoll",
+      "category": "kindness"
+    },
+    {
+      "id": 120,
+      "text": "We rise by lifting others.",
+      "author": "Robert Ingersoll",
+      "category": "kindness"
+    },
+    {
+      "id": 121,
+      "text": "The best thing to hold onto in life is each other.",
+      "author": "Audrey Hepburn",
+      "category": "love"
+    },
+    {
+      "id": 122,
+      "text": "Love is composed of a single soul inhabiting two bodies.",
+      "author": "Aristotle",
+      "category": "love"
+    },
+    {
+      "id": 123,
+      "text": "Where there is love there is life.",
+      "author": "Mahatma Gandhi",
+      "category": "love"
+    },
+    {
+      "id": 124,
+      "text": "Love is not about how many days, months, or years you have been together. It's all about how much you love each other every single day.",
+      "author": "Unknown",
+      "category": "love"
+    },
+    {
+      "id": 125,
+      "text": "The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart.",
+      "author": "Helen Keller",
+      "category": "love"
+    },
+    {
+      "id": 126,
+      "text": "You don't love someone for their looks or their clothes or for their fancy car, but because they sing a song only you can hear.",
+      "author": "Oscar Wilde",
+      "category": "love"
+    },
+    {
+      "id": 127,
+      "text": "Love yourself first and everything else falls into line.",
+      "author": "Lucille Ball",
+      "category": "love"
+    },
+    {
+      "id": 128,
+      "text": "To love and be loved is to feel the sun from both sides.",
+      "author": "David Viscott",
+      "category": "love"
+    },
+    {
+      "id": 129,
+      "text": "The greatest happiness of life is the conviction that we are loved.",
+      "author": "Victor Hugo",
+      "category": "love"
+    },
+    {
+      "id": 130,
+      "text": "We are most alive when we are in love.",
+      "author": "John Updike",
+      "category": "love"
+    },
+    {
+      "id": 131,
+      "text": "Love is the bridge between you and everything.",
+      "author": "Rumi",
+      "category": "love"
+    },
+    {
+      "id": 132,
+      "text": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+      "author": "Lao Tzu",
+      "category": "love"
+    },
+    {
+      "id": 133,
+      "text": "Love is the only force capable of transforming an enemy into a friend.",
+      "author": "Martin Luther King Jr.",
+      "category": "love"
+    },
+    {
+      "id": 134,
+      "text": "The heart has reasons that reason cannot know.",
+      "author": "Blaise Pascal",
+      "category": "love"
+    },
+    {
+      "id": 135,
+      "text": "Love is not finding someone to live with; it's finding someone you can't live without.",
+      "author": "Rafael Ortiz",
+      "category": "love"
+    },
+    {
+      "id": 136,
+      "text": "At the touch of love, everyone becomes a poet.",
+      "author": "Plato",
+      "category": "love"
+    },
+    {
+      "id": 137,
+      "text": "The giving of love is an education in itself.",
+      "author": "Eleanor Roosevelt",
+      "category": "love"
+    },
+    {
+      "id": 138,
+      "text": "Love is when the other person's happiness is more important than your own.",
+      "author": "H. Jackson Brown Jr.",
+      "category": "love"
+    },
+    {
+      "id": 139,
+      "text": "To be brave is to love someone unconditionally, without expecting anything in return.",
+      "author": "Madonna",
+      "category": "love"
+    },
+    {
+      "id": 140,
+      "text": "Love is not something you feel. It is something you do.",
+      "author": "David Wilkerson",
+      "category": "love"
+    },
+    {
+      "id": 141,
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "wisdom"
+    },
+    {
+      "id": 142,
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "category": "wisdom"
+    },
+    {
+      "id": 143,
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "category": "wisdom"
+    },
+    {
+      "id": 144,
+      "text": "The journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu",
+      "category": "wisdom"
+    },
+    {
+      "id": 145,
+      "text": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle",
+      "category": "wisdom"
+    },
+    {
+      "id": 146,
+      "text": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+      "author": "Charles Darwin",
+      "category": "wisdom"
+    },
+    {
+      "id": 147,
+      "text": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey",
+      "category": "wisdom"
+    },
+    {
+      "id": 148,
+      "text": "By three methods we may learn wisdom: reflection, which is noblest; imitation, which is easiest; experience, which is the bitterest.",
+      "author": "Confucius",
+      "category": "wisdom"
+    },
+    {
+      "id": 149,
+      "text": "The measure of intelligence is the ability to change.",
+      "author": "Albert Einstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 150,
+      "text": "To know what you know and what you do not know, that is true knowledge.",
+      "author": "Confucius",
+      "category": "wisdom"
+    },
+    {
+      "id": 151,
+      "text": "A fool thinks himself to be wise, but a wise man knows himself to be a fool.",
+      "author": "William Shakespeare",
+      "category": "wisdom"
+    },
+    {
+      "id": 152,
+      "text": "Life can only be understood backwards, but it must be lived forwards.",
+      "author": "Søren Kierkegaard",
+      "category": "wisdom"
+    },
+    {
+      "id": 153,
+      "text": "The wisest mind has something yet to learn.",
+      "author": "George Santayana",
+      "category": "wisdom"
+    },
+    {
+      "id": 154,
+      "text": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+      "author": "Albert Einstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 155,
+      "text": "The invariable mark of wisdom is to see the miraculous in the common.",
+      "author": "Ralph Waldo Emerson",
+      "category": "wisdom"
+    },
+    {
+      "id": 156,
+      "text": "Count your age by friends, not years. Count your life by smiles, not tears.",
+      "author": "John Lennon",
+      "category": "wisdom"
+    },
+    {
+      "id": 157,
+      "text": "Even the darkest night will end and the sun will rise.",
+      "author": "Victor Hugo",
+      "category": "wisdom"
+    },
+    {
+      "id": 158,
+      "text": "Not until we are lost do we begin to understand ourselves.",
+      "author": "Henry David Thoreau",
+      "category": "wisdom"
+    },
+    {
+      "id": 159,
+      "text": "The simple things are also the most extraordinary things, and only the wise can see them.",
+      "author": "Paulo Coelho",
+      "category": "wisdom"
+    },
+    {
+      "id": 160,
+      "text": "It is not length of life, but depth of life.",
+      "author": "Ralph Waldo Emerson",
+      "category": "wisdom"
+    },
+    {
+      "id": 161,
+      "text": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
+      "author": "Socrates",
+      "category": "mindset"
+    },
+    {
+      "id": 162,
+      "text": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
+      "author": "Steve Jobs",
+      "category": "mindset"
+    },
+    {
+      "id": 163,
+      "text": "Don't limit your challenges. Challenge your limits.",
+      "author": "Jerry Dunn",
+      "category": "mindset"
+    },
+    {
+      "id": 164,
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "category": "mindset"
+    },
+    {
+      "id": 165,
+      "text": "Nothing will work unless you do.",
+      "author": "Maya Angelou",
+      "category": "mindset"
+    },
+    {
+      "id": 166,
+      "text": "Push yourself, because no one else is going to do it for you.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 167,
+      "text": "Great things never come from comfort zones.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 168,
+      "text": "Dream it. Wish it. Do it.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 169,
+      "text": "Success doesn't just find you. You have to go out and get it.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 170,
+      "text": "The key to success is to focus on goals, not obstacles.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 171,
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "category": "success"
+    },
+    {
+      "id": 172,
+      "text": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "category": "success"
+    },
+    {
+      "id": 173,
+      "text": "If you can dream it, you can achieve it.",
+      "author": "Zig Ziglar",
+      "category": "success"
+    },
+    {
+      "id": 174,
+      "text": "The secret to getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "success"
+    },
+    {
+      "id": 175,
+      "text": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+      "author": "Vince Lombardi",
+      "category": "success"
+    },
+    {
+      "id": 176,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "category": "success"
+    },
+    {
+      "id": 177,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "success"
+    },
+    {
+      "id": 178,
+      "text": "Try not to become a person of success, but rather try to become a person of value.",
+      "author": "Albert Einstein",
+      "category": "success"
+    },
+    {
+      "id": 179,
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "success"
+    },
+    {
+      "id": 180,
+      "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+      "author": "Thomas Edison",
+      "category": "success"
+    },
+    {
+      "id": 181,
+      "text": "Do not go where the path may lead; go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "category": "courage"
+    },
+    {
+      "id": 182,
+      "text": "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.",
+      "author": "Robert Frost",
+      "category": "courage"
+    },
+    {
+      "id": 183,
+      "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "author": "J.K. Rowling",
+      "category": "courage"
+    },
+    {
+      "id": 184,
+      "text": "Courage is grace under pressure.",
+      "author": "Ernest Hemingway",
+      "category": "courage"
+    },
+    {
+      "id": 185,
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 186,
+      "text": "You must do the thing you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 187,
+      "text": "Real courage is when you know you're licked before you begin, but you begin anyway.",
+      "author": "Harper Lee",
+      "category": "courage"
+    },
+    {
+      "id": 188,
+      "text": "Leap and the net will appear.",
+      "author": "John Burroughs",
+      "category": "courage"
+    },
+    {
+      "id": 189,
+      "text": "Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.",
+      "author": "George Whitefield",
+      "category": "courage"
+    },
+    {
+      "id": 190,
+      "text": "When you come to the end of your rope, tie a knot and hang on.",
+      "author": "Franklin D. Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 191,
+      "text": "Logic will get you from A to B. Imagination will take you everywhere.",
+      "author": "Albert Einstein",
+      "category": "creativity"
+    },
+    {
+      "id": 192,
+      "text": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+      "author": "Scott Adams",
+      "category": "creativity"
+    },
+    {
+      "id": 193,
+      "text": "The creative person is willing to live with ambiguity. They don't need problems solved immediately.",
+      "author": "Abe Tannenbaum",
+      "category": "creativity"
+    },
+    {
+      "id": 194,
+      "text": "Creativity is just connecting things.",
+      "author": "Steve Jobs",
+      "category": "creativity"
+    },
+    {
+      "id": 195,
+      "text": "The secret to creativity is knowing how to hide your sources.",
+      "author": "Albert Einstein",
+      "category": "creativity"
+    },
+    {
+      "id": 196,
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try.",
+      "author": "Dr. Seuss",
+      "category": "creativity"
+    },
+    {
+      "id": 197,
+      "text": "Clean out a corner of your mind and creativity will instantly fill it.",
+      "author": "Dee Hock",
+      "category": "creativity"
+    },
+    {
+      "id": 198,
+      "text": "The most creative act you will ever undertake is the act of creating yourself.",
+      "author": "Deepak Chopra",
+      "category": "creativity"
+    },
+    {
+      "id": 199,
+      "text": "Inspiration exists, but it has to find you working.",
+      "author": "Pablo Picasso",
+      "category": "creativity"
+    },
+    {
+      "id": 200,
+      "text": "Creativity is the greatest rebellion in existence.",
+      "author": "Osho",
+      "category": "creativity"
+    },
+    {
+      "id": 201,
+      "text": "Do not indulge in dreams of having what you have not, but reckon up the chief blessings you do possess.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 202,
+      "text": "You have been formed of three parts: body, breath, and mind. Of these, the first two are yours insofar as they are only in your care; the third alone is truly yours.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 203,
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 204,
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 205,
+      "text": "If someone is able to show me that what I think or do is not right, I will happily change.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 206,
+      "text": "How long are you going to wait before you demand the best for yourself?",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 207,
+      "text": "People are not disturbed by things, but by the view they take of them.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 208,
+      "text": "Seek not for events to happen as you wish but rather wish for events to happen as they do and your life will go smoothly.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 209,
+      "text": "Of all existing things some are in our power, and others are not in our power.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 210,
+      "text": "Associate with people who are likely to improve you.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 211,
+      "text": "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 212,
+      "text": "Difficulties strengthen the mind, as labor does the body.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 213,
+      "text": "It's not because things are difficult that we dare not venture. It's because we dare not venture that they are difficult.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 214,
+      "text": "True happiness is to enjoy the present, without anxious dependence upon the future.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 215,
+      "text": "If you wish to be a writer, write.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 216,
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "category": "kindness"
+    },
+    {
+      "id": 217,
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "category": "kindness"
+    },
+    {
+      "id": 218,
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "category": "kindness"
+    },
+    {
+      "id": 219,
+      "text": "Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end.",
+      "author": "Scott Adams",
+      "category": "kindness"
+    },
+    {
+      "id": 220,
+      "text": "One who is kind is sympathetic and gentle with others. They're considerate of others' feelings.",
+      "author": "Gordon B. Hinckley",
+      "category": "kindness"
+    },
+    {
+      "id": 221,
+      "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+      "author": "Dalai Lama",
+      "category": "kindness"
+    },
+    {
+      "id": 222,
+      "text": "Kindness is a gift everyone can afford to give.",
+      "author": "Unknown",
+      "category": "kindness"
+    },
+    {
+      "id": 223,
+      "text": "You can accomplish by kindness what you cannot by force.",
+      "author": "Publilius Syrus",
+      "category": "kindness"
+    },
+    {
+      "id": 224,
+      "text": "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.",
+      "author": "Kahlil Gibran",
+      "category": "kindness"
+    },
+    {
+      "id": 225,
+      "text": "Guard well within yourself that treasure, kindness. Know how to give without hesitation, how to lose without regret.",
+      "author": "George Sand",
+      "category": "kindness"
+    },
+    {
+      "id": 226,
+      "text": "Love is the master key that opens the gates of happiness.",
+      "author": "Oliver Wendell Holmes",
+      "category": "love"
+    },
+    {
+      "id": 227,
+      "text": "The best use of life is love. The best expression of love is time.",
+      "author": "Rick Warren",
+      "category": "love"
+    },
+    {
+      "id": 228,
+      "text": "Love is the only gold.",
+      "author": "Alfred Lord Tennyson",
+      "category": "love"
+    },
+    {
+      "id": 229,
+      "text": "Love is a serious mental disease.",
+      "author": "Plato",
+      "category": "love"
+    },
+    {
+      "id": 230,
+      "text": "One word frees us of all the weight and pain of life: that word is love.",
+      "author": "Sophocles",
+      "category": "love"
+    },
+    {
+      "id": 231,
+      "text": "Immature love says I love you because I need you. Mature love says I need you because I love you.",
+      "author": "Erich Fromm",
+      "category": "love"
+    },
+    {
+      "id": 232,
+      "text": "Love is the flower you've got to let grow.",
+      "author": "John Lennon",
+      "category": "love"
+    },
+    {
+      "id": 233,
+      "text": "There is no charm equal to tenderness of heart.",
+      "author": "Jane Austen",
+      "category": "love"
+    },
+    {
+      "id": 234,
+      "text": "The greatest thing you'll ever learn is just to love and be loved in return.",
+      "author": "eden ahbez",
+      "category": "love"
+    },
+    {
+      "id": 235,
+      "text": "To love is nothing. To be loved is something. But to love and be loved, that's everything.",
+      "author": "T. Tolis",
+      "category": "love"
+    },
+    {
+      "id": 236,
+      "text": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+      "author": "Bruce Lee",
+      "category": "wisdom"
+    },
+    {
+      "id": 237,
+      "text": "The quieter you become, the more you are able to hear.",
+      "author": "Rumi",
+      "category": "wisdom"
+    },
+    {
+      "id": 238,
+      "text": "Before you speak, let your words pass through three gates: Is it true? Is it necessary? Is it kind?",
+      "author": "Rumi",
+      "category": "wisdom"
+    },
+    {
+      "id": 239,
+      "text": "The two most important days in your life are the day you are born and the day you find out why.",
+      "author": "Mark Twain",
+      "category": "wisdom"
+    },
+    {
+      "id": 240,
+      "text": "The older I grow, the more I distrust the familiar doctrine that age brings wisdom.",
+      "author": "H.L. Mencken",
+      "category": "wisdom"
+    },
+    {
+      "id": 241,
+      "text": "We don't see things as they are, we see them as we are.",
+      "author": "Anaïs Nin",
+      "category": "wisdom"
+    },
+    {
+      "id": 242,
+      "text": "Just when the caterpillar thought the world was ending, it became a butterfly.",
+      "author": "Proverb",
+      "category": "wisdom"
+    },
+    {
+      "id": 243,
+      "text": "The most beautiful things in the world cannot be seen or touched, they are felt with the heart.",
+      "author": "Antoine de Saint-Exupéry",
+      "category": "wisdom"
+    },
+    {
+      "id": 244,
+      "text": "Sometimes the questions are complicated and the answers are simple.",
+      "author": "Dr. Seuss",
+      "category": "wisdom"
+    },
+    {
+      "id": 245,
+      "text": "Everything has beauty, but not everyone sees it.",
+      "author": "Confucius",
+      "category": "wisdom"
+    },
+    {
+      "id": 246,
+      "text": "Small daily improvements are the key to staggering long-term results.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 247,
+      "text": "Your life does not get better by chance, it gets better by change.",
+      "author": "Jim Rohn",
+      "category": "mindset"
+    },
+    {
+      "id": 248,
+      "text": "You don't have to be positive all the time. It's perfectly okay to feel sad, angry, annoyed, frustrated, scared and anxious. Having feelings doesn't make you negative. It makes you human.",
+      "author": "Lori Deschene",
+      "category": "mindset"
+    },
+    {
+      "id": 249,
+      "text": "Tough times never last, but tough people do.",
+      "author": "Robert H. Schuller",
+      "category": "mindset"
+    },
+    {
+      "id": 250,
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "category": "mindset"
+    },
+    {
+      "id": 251,
+      "text": "Go the extra mile. It's never crowded.",
+      "author": "Wayne Dyer",
+      "category": "success"
+    },
+    {
+      "id": 252,
+      "text": "Motivation is what gets you started. Habit is what keeps you going.",
+      "author": "Jim Ryun",
+      "category": "success"
+    },
+    {
+      "id": 253,
+      "text": "Things work out best for those who make the best of how things work out.",
+      "author": "John Wooden",
+      "category": "success"
+    },
+    {
+      "id": 254,
+      "text": "To see what is right and not do it is a lack of courage.",
+      "author": "Confucius",
+      "category": "success"
+    },
+    {
+      "id": 255,
+      "text": "When you know better you do better.",
+      "author": "Maya Angelou",
+      "category": "success"
+    },
+    {
+      "id": 256,
+      "text": "Take the risk or lose the chance.",
+      "author": "Unknown",
+      "category": "courage"
+    },
+    {
+      "id": 257,
+      "text": "Everything you've ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "category": "courage"
+    },
+    {
+      "id": 258,
+      "text": "Be faithful in small things because it is in them that your strength lies.",
+      "author": "Mother Teresa",
+      "category": "courage"
+    },
+    {
+      "id": 259,
+      "text": "Don't be afraid to give up the good to go for the great.",
+      "author": "John D. Rockefeller",
+      "category": "courage"
+    },
+    {
+      "id": 260,
+      "text": "The question isn't who is going to let me; it's who is going to stop me.",
+      "author": "Ayn Rand",
+      "category": "courage"
+    },
+    {
+      "id": 261,
+      "text": "Make each day your masterpiece.",
+      "author": "John Wooden",
+      "category": "wisdom"
+    },
+    {
+      "id": 262,
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin",
+      "category": "wisdom"
+    },
+    {
+      "id": 263,
+      "text": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West",
+      "category": "wisdom"
+    },
+    {
+      "id": 264,
+      "text": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "category": "wisdom"
+    },
+    {
+      "id": 265,
+      "text": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain",
+      "category": "wisdom"
+    },
+    {
+      "id": 266,
+      "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "author": "Mahatma Gandhi",
+      "category": "wisdom"
+    },
+    {
+      "id": 267,
+      "text": "A day without laughter is a day wasted.",
+      "author": "Charlie Chaplin",
+      "category": "wisdom"
+    },
+    {
+      "id": 268,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "category": "wisdom"
+    },
+    {
+      "id": 269,
+      "text": "That it will never come again is what makes life so sweet.",
+      "author": "Emily Dickinson",
+      "category": "wisdom"
+    },
+    {
+      "id": 270,
+      "text": "When I let go of what I am, I become what I might be.",
+      "author": "Lao Tzu",
+      "category": "wisdom"
+    },
+    {
+      "id": 271,
+      "text": "My mission in life is not merely to survive, but to thrive.",
+      "author": "Maya Angelou",
+      "category": "success"
+    },
+    {
+      "id": 272,
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "category": "success"
+    },
+    {
+      "id": 273,
+      "text": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh",
+      "category": "success"
+    },
+    {
+      "id": 274,
+      "text": "A winner is a dreamer who never gives up.",
+      "author": "Nelson Mandela",
+      "category": "success"
+    },
+    {
+      "id": 275,
+      "text": "What seems to us as bitter trials are often blessings in disguise.",
+      "author": "Oscar Wilde",
+      "category": "success"
+    },
+    {
+      "id": 276,
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "category": "kindness"
+    },
+    {
+      "id": 277,
+      "text": "In a gentle way, you can shake the world.",
+      "author": "Mahatma Gandhi",
+      "category": "kindness"
+    },
+    {
+      "id": 278,
+      "text": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington",
+      "category": "kindness"
+    },
+    {
+      "id": 279,
+      "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+      "author": "Anne Frank",
+      "category": "kindness"
+    },
+    {
+      "id": 280,
+      "text": "Compassion is the basis of morality.",
+      "author": "Arthur Schopenhauer",
+      "category": "kindness"
+    },
+    {
+      "id": 281,
+      "text": "Love is not love which alters when it alteration finds.",
+      "author": "William Shakespeare",
+      "category": "love"
+    },
+    {
+      "id": 282,
+      "text": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls.",
+      "author": "Maya Angelou",
+      "category": "love"
+    },
+    {
+      "id": 283,
+      "text": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+      "author": "Oscar Wilde",
+      "category": "love"
+    },
+    {
+      "id": 284,
+      "text": "The best proof of love is trust.",
+      "author": "Joyce Brothers",
+      "category": "love"
+    },
+    {
+      "id": 285,
+      "text": "Love is not written on paper, for paper can be erased. Nor is it etched on stone, for stone can be broken.",
+      "author": "Rumi",
+      "category": "love"
+    },
+    {
+      "id": 286,
+      "text": "Guard your robes of character more carefully than your robes of office.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 287,
+      "text": "Think of yourself as dead. You have lived your life. Now take what's left and live it properly.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 288,
+      "text": "Do not act as if you had ten thousand years to live.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 289,
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 290,
+      "text": "The best answer to anger is silence.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 291,
+      "text": "When you arise in the morning, think of what a precious privilege it is to be alive.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 292,
+      "text": "He who fears death will never do anything worthy of a man who is alive.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 293,
+      "text": "To be everywhere is to be nowhere.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 294,
+      "text": "While we are postponing, life speeds by.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 295,
+      "text": "Omnia aliena sunt, tempus tantum nostrum est. All things are alien to us; time alone belongs to us.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 296,
+      "text": "A great attitude becomes a great day which becomes a great month which becomes a great year which becomes a great life.",
+      "author": "Mandy Hale",
+      "category": "mindset"
+    },
+    {
+      "id": 297,
+      "text": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+      "author": "Pablo Picasso",
+      "category": "wisdom"
+    },
+    {
+      "id": 298,
+      "text": "We know what we are, but know not what we may be.",
+      "author": "William Shakespeare",
+      "category": "wisdom"
+    },
+    {
+      "id": 299,
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "category": "success"
+    },
+    {
+      "id": 300,
+      "text": "Light tomorrow with today.",
+      "author": "Elizabeth Barrett Browning",
+      "category": "wisdom"
+    },
+    {
+      "id": 301,
+      "text": "The future depends on what you do today.",
+      "author": "Mahatma Gandhi",
+      "category": "mindset"
+    },
+    {
+      "id": 302,
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "category": "courage"
+    },
+    {
+      "id": 303,
+      "text": "When you reach the end of your rope, tie a knot in it and hang on.",
+      "author": "Franklin D. Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 304,
+      "text": "Always remember that you are absolutely unique, just like everyone else.",
+      "author": "Margaret Mead",
+      "category": "wisdom"
+    },
+    {
+      "id": 305,
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "category": "courage"
+    },
+    {
+      "id": 306,
+      "text": "You will face many defeats in life, but never let yourself be defeated.",
+      "author": "Maya Angelou",
+      "category": "mindset"
+    },
+    {
+      "id": 307,
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "category": "courage"
+    },
+    {
+      "id": 308,
+      "text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+      "author": "Thomas Edison",
+      "category": "success"
+    },
+    {
+      "id": 309,
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss",
+      "category": "mindset"
+    },
+    {
+      "id": 310,
+      "text": "If you look at what you have in life, you will always have more than you think.",
+      "author": "Oprah Winfrey",
+      "category": "wisdom"
+    },
+    {
+      "id": 311,
+      "text": "If you want to live a happy life, tie it to a goal, not to people or things.",
+      "author": "Albert Einstein",
+      "category": "success"
+    },
+    {
+      "id": 312,
+      "text": "Money and success don't change people; they merely amplify what is already there.",
+      "author": "Will Smith",
+      "category": "success"
+    },
+    {
+      "id": 313,
+      "text": "Not how long, but how well you have lived is the main thing.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 314,
+      "text": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+      "author": "Jamie Paolinetti",
+      "category": "creativity"
+    },
+    {
+      "id": 315,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas Edison",
+      "category": "mindset"
+    },
+    {
+      "id": 316,
+      "text": "Once we accept our limits, we go beyond them.",
+      "author": "Albert Einstein",
+      "category": "mindset"
+    },
+    {
+      "id": 317,
+      "text": "We cannot solve our problems with the same thinking we used when we created them.",
+      "author": "Albert Einstein",
+      "category": "mindset"
+    },
+    {
+      "id": 318,
+      "text": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+      "author": "Albert Einstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 319,
+      "text": "Certain things catch your eye, but pursue only those that capture the heart.",
+      "author": "Ancient Indian Proverb",
+      "category": "wisdom"
+    },
+    {
+      "id": 320,
+      "text": "Believe and act as if it were impossible to fail.",
+      "author": "Charles Kettering",
+      "category": "mindset"
+    },
+    {
+      "id": 321,
+      "text": "Remember no one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 322,
+      "text": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+      "author": "Henry Ford",
+      "category": "courage"
+    },
+    {
+      "id": 323,
+      "text": "Change your life today. Don't gamble on the future, act now, without delay.",
+      "author": "Simone de Beauvoir",
+      "category": "mindset"
+    },
+    {
+      "id": 324,
+      "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+      "author": "Sheryl Sandberg",
+      "category": "courage"
+    },
+    {
+      "id": 325,
+      "text": "I attribute my success to this: I never gave or took any excuse.",
+      "author": "Florence Nightingale",
+      "category": "success"
+    },
+    {
+      "id": 326,
+      "text": "I've missed more than 9000 shots in my career. I've lost almost 300 games. I've failed over and over and that is why I succeed.",
+      "author": "Michael Jordan",
+      "category": "success"
+    },
+    {
+      "id": 327,
+      "text": "The most difficult thing is the decision to act; the rest is merely tenacity.",
+      "author": "Amelia Earhart",
+      "category": "courage"
+    },
+    {
+      "id": 328,
+      "text": "Every strike brings me closer to the next home run.",
+      "author": "Babe Ruth",
+      "category": "mindset"
+    },
+    {
+      "id": 329,
+      "text": "Definiteness of purpose is the starting point of all achievement.",
+      "author": "W. Clement Stone",
+      "category": "success"
+    },
+    {
+      "id": 330,
+      "text": "Life isn't about getting and having, it's about giving and being.",
+      "author": "Kevin Kruse",
+      "category": "wisdom"
+    },
+    {
+      "id": 331,
+      "text": "Whatever the mind of man can conceive and believe, it can achieve.",
+      "author": "Napoleon Hill",
+      "category": "mindset"
+    },
+    {
+      "id": 332,
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein",
+      "category": "success"
+    },
+    {
+      "id": 333,
+      "text": "The mind is not a vessel to be filled but a fire to be ignited.",
+      "author": "Plutarch",
+      "category": "creativity"
+    },
+    {
+      "id": 334,
+      "text": "Build your own dreams, or someone else will hire you to build theirs.",
+      "author": "Farrah Gray",
+      "category": "success"
+    },
+    {
+      "id": 335,
+      "text": "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "category": "wisdom"
+    },
+    {
+      "id": 336,
+      "text": "You can't connect the dots looking forward; you can only connect them looking backwards.",
+      "author": "Steve Jobs",
+      "category": "wisdom"
+    },
+    {
+      "id": 337,
+      "text": "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did.",
+      "author": "Mark Twain",
+      "category": "courage"
+    },
+    {
+      "id": 338,
+      "text": "Life is 10% what happens to me and 90% how I react to it.",
+      "author": "Charles Swindoll",
+      "category": "mindset"
+    },
+    {
+      "id": 339,
+      "text": "The most common way people give up their power is by thinking they don't have any.",
+      "author": "Alice Walker",
+      "category": "mindset"
+    },
+    {
+      "id": 340,
+      "text": "An unexamined life is not worth living.",
+      "author": "Socrates",
+      "category": "wisdom"
+    },
+    {
+      "id": 341,
+      "text": "We must be the change we wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "category": "kindness"
+    },
+    {
+      "id": 342,
+      "text": "The only journey is the one within.",
+      "author": "Rainer Maria Rilke",
+      "category": "wisdom"
+    },
+    {
+      "id": 343,
+      "text": "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.",
+      "author": "Paulo Coelho",
+      "category": "wisdom"
+    },
+    {
+      "id": 344,
+      "text": "Throw your dreams into space like a kite, and you do not know what it will bring back.",
+      "author": "Anais Nin",
+      "category": "creativity"
+    },
+    {
+      "id": 345,
+      "text": "You've gotta dance like there's nobody watching, love like you'll never be hurt.",
+      "author": "William W. Purkey",
+      "category": "love"
+    },
+    {
+      "id": 346,
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr.",
+      "category": "love"
+    },
+    {
+      "id": 347,
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "category": "success"
+    },
+    {
+      "id": 348,
+      "text": "When the power of love overcomes the love of power, the world will know peace.",
+      "author": "Jimi Hendrix",
+      "category": "love"
+    },
+    {
+      "id": 349,
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Mother Teresa",
+      "category": "kindness"
+    },
+    {
+      "id": 350,
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "category": "wisdom"
+    },
+    {
+      "id": 351,
+      "text": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+      "author": "Dr. Seuss",
+      "category": "love"
+    },
+    {
+      "id": 352,
+      "text": "Get busy living or get busy dying.",
+      "author": "Stephen King",
+      "category": "courage"
+    },
+    {
+      "id": 353,
+      "text": "The starting point of all achievement is desire.",
+      "author": "Napoleon Hill",
+      "category": "success"
+    },
+    {
+      "id": 354,
+      "text": "Success is the sum of small efforts, repeated day in and day out.",
+      "author": "Robert Collier",
+      "category": "success"
+    },
+    {
+      "id": 355,
+      "text": "People who succeed have momentum. The more they succeed, the more they want to succeed.",
+      "author": "Tony Robbins",
+      "category": "success"
+    },
+    {
+      "id": 356,
+      "text": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+      "author": "Joshua J. Marine",
+      "category": "mindset"
+    },
+    {
+      "id": 357,
+      "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+      "author": "Louisa May Alcott",
+      "category": "courage"
+    },
+    {
+      "id": 358,
+      "text": "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+      "author": "Anatole France",
+      "category": "mindset"
+    },
+    {
+      "id": 359,
+      "text": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+      "author": "Aristotle",
+      "category": "courage"
+    },
+    {
+      "id": 360,
+      "text": "I've learned that people will forget what you said and what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "category": "kindness"
+    },
+    {
+      "id": 361,
+      "text": "Either you run the day, or the day runs you.",
+      "author": "Jim Rohn",
+      "category": "mindset"
+    },
+    {
+      "id": 362,
+      "text": "Too many of us are not living our dreams because we are living our fears.",
+      "author": "Les Brown",
+      "category": "courage"
+    },
+    {
+      "id": 363,
+      "text": "In order to succeed, we must first believe that we can.",
+      "author": "Nikos Kazantzakis",
+      "category": "mindset"
+    },
+    {
+      "id": 364,
+      "text": "Learn from the mistakes of others. You can't live long enough to make them all yourself.",
+      "author": "Eleanor Roosevelt",
+      "category": "wisdom"
+    },
+    {
+      "id": 365,
+      "text": "We generate fears while we sit. We overcome them by action.",
+      "author": "Henry Link",
+      "category": "courage"
+    },
+    {
+      "id": 366,
+      "text": "Knowledge is power.",
+      "author": "Francis Bacon",
+      "category": "wisdom"
+    },
+    {
+      "id": 367,
+      "text": "Life is not about finding yourself. Life is about creating yourself.",
+      "author": "Lolly Daskal",
+      "category": "creativity"
+    },
+    {
+      "id": 368,
+      "text": "The secret of life is to fall seven times and to get up eight times.",
+      "author": "Paulo Coelho",
+      "category": "courage"
+    },
+    {
+      "id": 369,
+      "text": "When you have a dream, you've got to grab it and never let go.",
+      "author": "Carol Burnett",
+      "category": "success"
+    },
+    {
+      "id": 370,
+      "text": "The bad news is time flies. The good news is you're the pilot.",
+      "author": "Michael Altshuler",
+      "category": "mindset"
+    },
+    {
+      "id": 371,
+      "text": "Keep your eyes on the stars, and your feet on the ground.",
+      "author": "Theodore Roosevelt",
+      "category": "mindset"
+    },
+    {
+      "id": 372,
+      "text": "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+      "author": "Winston Churchill",
+      "category": "courage"
+    },
+    {
+      "id": 373,
+      "text": "Things do not happen. Things are made to happen.",
+      "author": "John F. Kennedy",
+      "category": "success"
+    },
+    {
+      "id": 374,
+      "text": "If you can do what you do best and be happy, you're further along in life than most people.",
+      "author": "Leonardo DiCaprio",
+      "category": "success"
+    },
+    {
+      "id": 375,
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin",
+      "category": "success"
+    },
+    {
+      "id": 376,
+      "text": "Eighty percent of success is showing up.",
+      "author": "Woody Allen",
+      "category": "success"
+    },
+    {
+      "id": 377,
+      "text": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "category": "wisdom"
+    },
+    {
+      "id": 378,
+      "text": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "category": "success"
+    },
+    {
+      "id": 379,
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "category": "courage"
+    },
+    {
+      "id": 380,
+      "text": "If opportunity doesn't knock, build a door.",
+      "author": "Milton Berle",
+      "category": "success"
+    },
+    {
+      "id": 381,
+      "text": "Every moment is a fresh beginning.",
+      "author": "T.S. Eliot",
+      "category": "mindset"
+    },
+    {
+      "id": 382,
+      "text": "Look deep into nature, and then you will understand everything better.",
+      "author": "Albert Einstein",
+      "category": "wisdom"
+    },
+    {
+      "id": 383,
+      "text": "I have found that if you love life, life will love you back.",
+      "author": "Arthur Rubinstein",
+      "category": "love"
+    },
+    {
+      "id": 384,
+      "text": "Learning never exhausts the mind.",
+      "author": "Leonardo da Vinci",
+      "category": "wisdom"
+    },
+    {
+      "id": 385,
+      "text": "To live is the rarest thing in the world. Most people just exist.",
+      "author": "Oscar Wilde",
+      "category": "wisdom"
+    },
+    {
+      "id": 386,
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "category": "love"
+    },
+    {
+      "id": 387,
+      "text": "The best and most beautiful things in the world cannot be seen or even touched; they must be felt with the heart.",
+      "author": "Helen Keller",
+      "category": "love"
+    },
+    {
+      "id": 388,
+      "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+      "author": "Antoine de Saint-Exupery",
+      "category": "creativity"
+    },
+    {
+      "id": 389,
+      "text": "Try to be a rainbow in someone's cloud.",
+      "author": "Maya Angelou",
+      "category": "kindness"
+    },
+    {
+      "id": 390,
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "category": "courage"
+    },
+    {
+      "id": 391,
+      "text": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+      "author": "Rosa Parks",
+      "category": "courage"
+    },
+    {
+      "id": 392,
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "Mother Teresa",
+      "category": "kindness"
+    },
+    {
+      "id": 393,
+      "text": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+      "author": "Winston Churchill",
+      "category": "mindset"
+    },
+    {
+      "id": 394,
+      "text": "Don't let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "category": "mindset"
+    },
+    {
+      "id": 395,
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "category": "courage"
+    },
+    {
+      "id": 396,
+      "text": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+      "author": "Johann Wolfgang von Goethe",
+      "category": "success"
+    },
+    {
+      "id": 397,
+      "text": "We can't help everyone, but everyone can help someone.",
+      "author": "Ronald Reagan",
+      "category": "kindness"
+    },
+    {
+      "id": 398,
+      "text": "When the going gets tough, the tough get going.",
+      "author": "Joe Kennedy",
+      "category": "courage"
+    },
+    {
+      "id": 399,
+      "text": "There are no traffic jams along the extra mile.",
+      "author": "Roger Staubach",
+      "category": "success"
+    },
+    {
+      "id": 400,
+      "text": "Happiness is not something readymade. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "wisdom"
+    },
+    {
+      "id": 401,
+      "text": "Give light and people will find the way.",
+      "author": "Ella Baker",
+      "category": "kindness"
+    },
+    {
+      "id": 402,
+      "text": "If the wind will not serve, take to the oars.",
+      "author": "Latin Proverb",
+      "category": "courage"
+    },
+    {
+      "id": 403,
+      "text": "Dreams don't work unless you do.",
+      "author": "John C. Maxwell",
+      "category": "success"
+    },
+    {
+      "id": 404,
+      "text": "There is no substitute for hard work.",
+      "author": "Thomas Edison",
+      "category": "success"
+    },
+    {
+      "id": 405,
+      "text": "Success is the child of audacity.",
+      "author": "Benjamin Disraeli",
+      "category": "success"
+    },
+    {
+      "id": 406,
+      "text": "Don't wish it were easier. Wish you were better.",
+      "author": "Jim Rohn",
+      "category": "mindset"
+    },
+    {
+      "id": 407,
+      "text": "There are no shortcuts to any place worth going.",
+      "author": "Beverly Sills",
+      "category": "success"
+    },
+    {
+      "id": 408,
+      "text": "You must expect great things of yourself before you can do them.",
+      "author": "Michael Jordan",
+      "category": "mindset"
+    },
+    {
+      "id": 409,
+      "text": "People rarely succeed unless they have fun in what they are doing.",
+      "author": "Dale Carnegie",
+      "category": "success"
+    },
+    {
+      "id": 410,
+      "text": "Just one small positive thought in the morning can change your whole day.",
+      "author": "Dalai Lama",
+      "category": "mindset"
+    },
+    {
+      "id": 411,
+      "text": "Opportunities don't happen, you create them.",
+      "author": "Chris Grosser",
+      "category": "success"
+    },
+    {
+      "id": 412,
+      "text": "If you change the way you look at things, the things you look at change.",
+      "author": "Wayne Dyer",
+      "category": "mindset"
+    },
+    {
+      "id": 413,
+      "text": "If you don't like the road you're walking, start paving another one.",
+      "author": "Dolly Parton",
+      "category": "mindset"
+    },
+    {
+      "id": 414,
+      "text": "Happiness often sneaks in through a door you didn't know you left open.",
+      "author": "John Barrymore",
+      "category": "wisdom"
+    },
+    {
+      "id": 415,
+      "text": "Yesterday is history, tomorrow is a mystery, today is a gift, which is why we call it the present.",
+      "author": "Bill Keane",
+      "category": "wisdom"
+    },
+    {
+      "id": 416,
+      "text": "The most wasted of all days is one without laughter.",
+      "author": "Nicolas Chamfort",
+      "category": "wisdom"
+    },
+    {
+      "id": 417,
+      "text": "What is not started today is never finished tomorrow.",
+      "author": "Johann Wolfgang von Goethe",
+      "category": "success"
+    },
+    {
+      "id": 418,
+      "text": "No masterpiece was ever created by a lazy artist.",
+      "author": "Unknown",
+      "category": "creativity"
+    },
+    {
+      "id": 419,
+      "text": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+      "author": "Michelangelo",
+      "category": "success"
+    },
+    {
+      "id": 420,
+      "text": "It is never too late to be what you might have been.",
+      "author": "George Eliot",
+      "category": "mindset"
+    },
+    {
+      "id": 421,
+      "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
+      "author": "Mahatma Gandhi",
+      "category": "courage"
+    },
+    {
+      "id": 422,
+      "text": "Only I can change my life. No one can do it for me.",
+      "author": "Carol Burnett",
+      "category": "mindset"
+    },
+    {
+      "id": 423,
+      "text": "First, have a definite, clear practical ideal — a goal, an objective. Second, have the necessary means to achieve your ends.",
+      "author": "Aristotle",
+      "category": "success"
+    },
+    {
+      "id": 424,
+      "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+      "author": "Helen Keller",
+      "category": "mindset"
+    },
+    {
+      "id": 425,
+      "text": "Even if you're on the right track, you'll get run over if you just sit there.",
+      "author": "Will Rogers",
+      "category": "success"
+    },
+    {
+      "id": 426,
+      "text": "It is better to light a candle than curse the darkness.",
+      "author": "Eleanor Roosevelt",
+      "category": "kindness"
+    },
+    {
+      "id": 427,
+      "text": "Wherever there is a human being, there is an opportunity for a kindness.",
+      "author": "Seneca",
+      "category": "kindness"
+    },
+    {
+      "id": 428,
+      "text": "The simple act of caring is heroic.",
+      "author": "Edward Albert",
+      "category": "kindness"
+    },
+    {
+      "id": 429,
+      "text": "Never look down on anybody unless you're helping him up.",
+      "author": "Jesse Jackson",
+      "category": "kindness"
+    },
+    {
+      "id": 430,
+      "text": "You have not lived today until you have done something for someone who can never repay you.",
+      "author": "John Bunyan",
+      "category": "kindness"
+    },
+    {
+      "id": 431,
+      "text": "A part of kindness consists in loving people more than they deserve.",
+      "author": "Joseph Joubert",
+      "category": "kindness"
+    },
+    {
+      "id": 432,
+      "text": "My religion is very simple. My religion is kindness.",
+      "author": "Dalai Lama",
+      "category": "kindness"
+    },
+    {
+      "id": 433,
+      "text": "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
+      "author": "Washington Irving",
+      "category": "love"
+    },
+    {
+      "id": 434,
+      "text": "Love cures people — both the ones who give it and the ones who receive it.",
+      "author": "Karl Menninger",
+      "category": "love"
+    },
+    {
+      "id": 435,
+      "text": "To love at all is to be vulnerable.",
+      "author": "C.S. Lewis",
+      "category": "love"
+    },
+    {
+      "id": 436,
+      "text": "Love is a fruit in season at all times, and within reach of every hand.",
+      "author": "Mother Teresa",
+      "category": "love"
+    },
+    {
+      "id": 437,
+      "text": "The way to love anything is to realize that it may be lost.",
+      "author": "Gilbert K. Chesterton",
+      "category": "love"
+    },
+    {
+      "id": 438,
+      "text": "Love is the greatest refreshment in life.",
+      "author": "Pablo Picasso",
+      "category": "love"
+    },
+    {
+      "id": 439,
+      "text": "We are shaped and fashioned by what we love.",
+      "author": "Johann Wolfgang von Goethe",
+      "category": "love"
+    },
+    {
+      "id": 440,
+      "text": "There is only one happiness in this life, to love and be loved.",
+      "author": "George Sand",
+      "category": "love"
+    },
+    {
+      "id": 441,
+      "text": "To love is to receive a glimpse of heaven.",
+      "author": "Karen Sunde",
+      "category": "love"
+    },
+    {
+      "id": 442,
+      "text": "Choose a job you love, and you will never have to work a day in your life.",
+      "author": "Confucius",
+      "category": "love"
+    },
+    {
+      "id": 443,
+      "text": "Discipline is the bridge between goals and accomplishment.",
+      "author": "Jim Rohn",
+      "category": "success"
+    },
+    {
+      "id": 444,
+      "text": "The creation of something new is not accomplished by the intellect but by the play instinct.",
+      "author": "Carl Jung",
+      "category": "creativity"
+    },
+    {
+      "id": 445,
+      "text": "When you do things from your soul, you feel a river moving in you, a joy.",
+      "author": "Rumi",
+      "category": "creativity"
+    },
+    {
+      "id": 446,
+      "text": "Making the simple complicated is commonplace; making the complicated awesomely simple, that's creativity.",
+      "author": "Charles Mingus",
+      "category": "creativity"
+    },
+    {
+      "id": 447,
+      "text": "An essential aspect of creativity is not being afraid to fail.",
+      "author": "Edwin Land",
+      "category": "creativity"
+    },
+    {
+      "id": 448,
+      "text": "Be brave enough to live life creatively. The creative place where no one else has ever been.",
+      "author": "Alan Alda",
+      "category": "creativity"
+    },
+    {
+      "id": 449,
+      "text": "True creativity often starts where language ends.",
+      "author": "Arthur Koestler",
+      "category": "creativity"
+    },
+    {
+      "id": 450,
+      "text": "Creativity doesn't wait for that perfect moment. It fashions its own perfect moments out of ordinary ones.",
+      "author": "Bruce Garrabrandt",
+      "category": "creativity"
+    },
+    {
+      "id": 451,
+      "text": "The world is but a canvas to our imagination.",
+      "author": "Henry David Thoreau",
+      "category": "creativity"
+    },
+    {
+      "id": 452,
+      "text": "Don't think. Thinking is the enemy of creativity.",
+      "author": "Ray Bradbury",
+      "category": "creativity"
+    },
+    {
+      "id": 453,
+      "text": "You are the sum total of everything you've ever seen, heard, eaten, smelled, been told, forgot — it's all there.",
+      "author": "Maya Angelou",
+      "category": "creativity"
+    },
+    {
+      "id": 454,
+      "text": "Nature does not hurry, yet everything is accomplished.",
+      "author": "Lao Tzu",
+      "category": "stoicism"
+    },
+    {
+      "id": 455,
+      "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 456,
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "category": "stoicism"
+    },
+    {
+      "id": 457,
+      "text": "Man is not worried by real problems so much as by his imagined anxieties about real problems.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 458,
+      "text": "Don't explain your philosophy. Embody it.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 459,
+      "text": "To bear trials with a calm mind robs misfortune of its strength and burden.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 460,
+      "text": "Be tolerant with others and strict with yourself.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 461,
+      "text": "The more we value things outside our control, the less control we have.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 462,
+      "text": "The greatest remedy for anger is delay.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 463,
+      "text": "Sometimes even to live is an act of courage.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 464,
+      "text": "Perfection of character is this: to live each day as if it were your last, without frenzy, without apathy, without pretense.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 465,
+      "text": "Nothing, to my way of thinking, is a better proof of a well-ordered mind than a man's ability to stop just where he is and pass some time in his own company.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 466,
+      "text": "While we are postponing, life speeds by.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 467,
+      "text": "He who fears death will never do anything worthy of a man who is alive.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 468,
+      "text": "To be everywhere is to be nowhere.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 469,
+      "text": "Associate with people who are likely to improve you.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 470,
+      "text": "The impediment to action advances action. What stands in the way becomes the way.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 471,
+      "text": "Think of all the beauty still left around you and be happy.",
+      "author": "Anne Frank",
+      "category": "wisdom"
+    },
+    {
+      "id": 472,
+      "text": "The two most important days in your life are the day you are born and the day you find out why.",
+      "author": "Mark Twain",
+      "category": "wisdom"
+    },
+    {
+      "id": 473,
+      "text": "A day without sunshine is like, you know, night.",
+      "author": "Steve Martin",
+      "category": "wisdom"
+    },
+    {
+      "id": 474,
+      "text": "How you spend your time is more important than how you spend your money. Money mistakes can be corrected, but time is gone forever.",
+      "author": "David Norris",
+      "category": "wisdom"
+    },
+    {
+      "id": 475,
+      "text": "Happiness and moral duty are inseparably connected.",
+      "author": "George Washington",
+      "category": "wisdom"
+    },
+    {
+      "id": 476,
+      "text": "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
+      "author": "Helen Keller",
+      "category": "wisdom"
+    },
+    {
+      "id": 477,
+      "text": "Dost thou love life? Then do not squander time, for that's the stuff life is made of.",
+      "author": "Benjamin Franklin",
+      "category": "wisdom"
+    },
+    {
+      "id": 478,
+      "text": "The most common form of despair is not being who you are.",
+      "author": "Soren Kierkegaard",
+      "category": "wisdom"
+    },
+    {
+      "id": 479,
+      "text": "Live in the sunshine, swim in the sea, drink the wild air.",
+      "author": "Ralph Waldo Emerson",
+      "category": "wisdom"
+    },
+    {
+      "id": 480,
+      "text": "When I let go of what I am, I become what I might be.",
+      "author": "Lao Tzu",
+      "category": "wisdom"
+    },
+    {
+      "id": 481,
+      "text": "What we achieve inwardly will change outer reality.",
+      "author": "Plutarch",
+      "category": "mindset"
+    },
+    {
+      "id": 482,
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "category": "mindset"
+    },
+    {
+      "id": 483,
+      "text": "It is never too late to be what you might have been.",
+      "author": "George Eliot",
+      "category": "mindset"
+    },
+    {
+      "id": 484,
+      "text": "A great attitude becomes a great day which becomes a great month which becomes a great year which becomes a great life.",
+      "author": "Mandy Hale",
+      "category": "mindset"
+    },
+    {
+      "id": 485,
+      "text": "You were made for amazing things.",
+      "author": "Unknown",
+      "category": "mindset"
+    },
+    {
+      "id": 486,
+      "text": "There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.",
+      "author": "Ella Wheeler Wilcox",
+      "category": "mindset"
+    },
+    {
+      "id": 487,
+      "text": "It is not in the stars to hold our destiny but in ourselves.",
+      "author": "William Shakespeare",
+      "category": "mindset"
+    },
+    {
+      "id": 488,
+      "text": "Reflect upon your present blessings, of which every man has many, not on your past misfortunes, of which all men have some.",
+      "author": "Charles Dickens",
+      "category": "wisdom"
+    },
+    {
+      "id": 489,
+      "text": "Guard your robes of character more carefully than your robes of office.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 490,
+      "text": "Think of yourself as dead. You have lived your life. Now take what's left and live it properly.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 491,
+      "text": "Accept the things to which fate binds you, and love the people with whom fate brings you together.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 492,
+      "text": "The best answer to anger is silence.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 493,
+      "text": "Seek not for events to happen as you wish but rather wish for events to happen as they do and your life will go smoothly.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 494,
+      "text": "How long are you going to wait before you demand the best for yourself?",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 495,
+      "text": "People are not disturbed by things, but by the view they take of them.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 496,
+      "text": "Of all existing things some are in our power, and others are not in our power.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 497,
+      "text": "If you wish to be a writer, write.",
+      "author": "Epictetus",
+      "category": "stoicism"
+    },
+    {
+      "id": 498,
+      "text": "Difficulties strengthen the mind, as labor does the body.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 499,
+      "text": "True happiness is to enjoy the present, without anxious dependence upon the future.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 500,
+      "text": "Luck is what happens when preparation meets opportunity.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 501,
+      "text": "Imagination is not only the uniquely human capacity to envision that which is not, and therefore the fount of all invention and innovation.",
+      "author": "J.K. Rowling",
+      "category": "creativity"
+    },
+    {
+      "id": 502,
+      "text": "The desire to create is one of the deepest yearnings of the human soul.",
+      "author": "Dieter F. Uchtdorf",
+      "category": "creativity"
+    },
+    {
+      "id": 503,
+      "text": "Creativity involves breaking out of expected patterns in order to look at things in a different way.",
+      "author": "Edward de Bono",
+      "category": "creativity"
+    },
+    {
+      "id": 504,
+      "text": "Inspiration exists, but it has to find you working.",
+      "author": "Pablo Picasso",
+      "category": "creativity"
+    },
+    {
+      "id": 505,
+      "text": "The most creative act you will ever undertake is the act of creating yourself.",
+      "author": "Deepak Chopra",
+      "category": "creativity"
+    },
+    {
+      "id": 506,
+      "text": "Logic will get you from A to B. Imagination will take you everywhere.",
+      "author": "Albert Einstein",
+      "category": "creativity"
+    },
+    {
+      "id": 507,
+      "text": "Creativity is putting your imagination to work, and it's produced the most extraordinary results in human culture.",
+      "author": "Ken Robinson",
+      "category": "creativity"
+    },
+    {
+      "id": 508,
+      "text": "Creativity is not the finding of a thing, but the making something out of it after it is found.",
+      "author": "James Russell Lowell",
+      "category": "creativity"
+    },
+    {
+      "id": 509,
+      "text": "All that we see or seem is but a dream within a dream.",
+      "author": "Edgar Allan Poe",
+      "category": "creativity"
+    },
+    {
+      "id": 510,
+      "text": "The power of imagination makes us infinite.",
+      "author": "John Muir",
+      "category": "creativity"
+    },
+    {
+      "id": 511,
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "category": "kindness"
+    },
+    {
+      "id": 512,
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "category": "kindness"
+    },
+    {
+      "id": 513,
+      "text": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+      "author": "Dalai Lama",
+      "category": "kindness"
+    },
+    {
+      "id": 514,
+      "text": "You can accomplish by kindness what you cannot by force.",
+      "author": "Publilius Syrus",
+      "category": "kindness"
+    },
+    {
+      "id": 515,
+      "text": "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.",
+      "author": "Kahlil Gibran",
+      "category": "kindness"
+    },
+    {
+      "id": 516,
+      "text": "Be somebody who makes everybody feel like a somebody.",
+      "author": "Kid President",
+      "category": "kindness"
+    },
+    {
+      "id": 517,
+      "text": "Real generosity toward the future lies in giving all to the present.",
+      "author": "Albert Camus",
+      "category": "kindness"
+    },
+    {
+      "id": 518,
+      "text": "You have not lived today until you have done something for someone who can never repay you.",
+      "author": "John Bunyan",
+      "category": "kindness"
+    },
+    {
+      "id": 519,
+      "text": "Compassion is the basis of morality.",
+      "author": "Arthur Schopenhauer",
+      "category": "kindness"
+    },
+    {
+      "id": 520,
+      "text": "In a gentle way, you can shake the world.",
+      "author": "Mahatma Gandhi",
+      "category": "kindness"
+    },
+    {
+      "id": 521,
+      "text": "Love is not written on paper, for paper can be erased. Nor is it etched on stone, for stone can be broken.",
+      "author": "Rumi",
+      "category": "love"
+    },
+    {
+      "id": 522,
+      "text": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls.",
+      "author": "Maya Angelou",
+      "category": "love"
+    },
+    {
+      "id": 523,
+      "text": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+      "author": "Oscar Wilde",
+      "category": "love"
+    },
+    {
+      "id": 524,
+      "text": "The best proof of love is trust.",
+      "author": "Joyce Brothers",
+      "category": "love"
+    },
+    {
+      "id": 525,
+      "text": "Love is not something you feel. It is something you do.",
+      "author": "David Wilkerson",
+      "category": "love"
+    },
+    {
+      "id": 526,
+      "text": "Love your family, work super hard, live your passion.",
+      "author": "Gary Vaynerchuk",
+      "category": "love"
+    },
+    {
+      "id": 527,
+      "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+      "author": "Maya Angelou",
+      "category": "love"
+    },
+    {
+      "id": 528,
+      "text": "I would rather walk with a friend in the dark, than alone in the light.",
+      "author": "Helen Keller",
+      "category": "love"
+    },
+    {
+      "id": 529,
+      "text": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+      "author": "Friedrich Nietzsche",
+      "category": "love"
+    },
+    {
+      "id": 530,
+      "text": "There is no charm equal to tenderness of heart.",
+      "author": "Jane Austen",
+      "category": "love"
+    },
+    {
+      "id": 531,
+      "text": "My mission in life is not merely to survive, but to thrive.",
+      "author": "Maya Angelou",
+      "category": "success"
+    },
+    {
+      "id": 532,
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "category": "success"
+    },
+    {
+      "id": 533,
+      "text": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh",
+      "category": "success"
+    },
+    {
+      "id": 534,
+      "text": "What seems to us as bitter trials are often blessings in disguise.",
+      "author": "Oscar Wilde",
+      "category": "success"
+    },
+    {
+      "id": 535,
+      "text": "I'm a greater believer in luck, and I find the harder I work the more I have of it.",
+      "author": "Thomas Jefferson",
+      "category": "success"
+    },
+    {
+      "id": 536,
+      "text": "The only difference between ordinary and extraordinary is that little extra.",
+      "author": "Jimmy Johnson",
+      "category": "success"
+    },
+    {
+      "id": 537,
+      "text": "Without hustle, talent will only carry you so far.",
+      "author": "Gary Vaynerchuk",
+      "category": "success"
+    },
+    {
+      "id": 538,
+      "text": "Things may come to those who wait, but only the things left by those who hustle.",
+      "author": "Abraham Lincoln",
+      "category": "success"
+    },
+    {
+      "id": 539,
+      "text": "If you don't build your dream, someone else will hire you to help them build theirs.",
+      "author": "Dhirubhai Ambani",
+      "category": "success"
+    },
+    {
+      "id": 540,
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee",
+      "category": "success"
+    },
+    {
+      "id": 541,
+      "text": "The quieter you become, the more you are able to hear.",
+      "author": "Rumi",
+      "category": "wisdom"
+    },
+    {
+      "id": 542,
+      "text": "Before you speak, let your words pass through three gates: Is it true? Is it necessary? Is it kind?",
+      "author": "Rumi",
+      "category": "wisdom"
+    },
+    {
+      "id": 543,
+      "text": "Just when the caterpillar thought the world was ending, it became a butterfly.",
+      "author": "Proverb",
+      "category": "wisdom"
+    },
+    {
+      "id": 544,
+      "text": "Sometimes the questions are complicated and the answers are simple.",
+      "author": "Dr. Seuss",
+      "category": "wisdom"
+    },
+    {
+      "id": 545,
+      "text": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+      "author": "Bruce Lee",
+      "category": "wisdom"
+    },
+    {
+      "id": 546,
+      "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+      "author": "Rumi",
+      "category": "wisdom"
+    },
+    {
+      "id": 547,
+      "text": "We don't see things as they are, we see them as we are.",
+      "author": "Anais Nin",
+      "category": "wisdom"
+    },
+    {
+      "id": 548,
+      "text": "Life can only be understood backwards; but it must be lived forwards.",
+      "author": "Soren Kierkegaard",
+      "category": "wisdom"
+    },
+    {
+      "id": 549,
+      "text": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+      "author": "Pablo Picasso",
+      "category": "wisdom"
+    },
+    {
+      "id": 550,
+      "text": "Make each day your masterpiece.",
+      "author": "John Wooden",
+      "category": "wisdom"
+    },
+    {
+      "id": 551,
+      "text": "That it will never come again is what makes life so sweet.",
+      "author": "Emily Dickinson",
+      "category": "wisdom"
+    },
+    {
+      "id": 552,
+      "text": "Guard well within yourself that treasure, kindness. Know how to give without hesitation, how to lose without regret.",
+      "author": "George Sand",
+      "category": "kindness"
+    },
+    {
+      "id": 553,
+      "text": "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.",
+      "author": "Booker T. Washington",
+      "category": "kindness"
+    },
+    {
+      "id": 554,
+      "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+      "author": "Anne Frank",
+      "category": "kindness"
+    },
+    {
+      "id": 555,
+      "text": "Beginning today, treat everyone you meet as if they were going to be dead by midnight.",
+      "author": "Og Mandino",
+      "category": "kindness"
+    },
+    {
+      "id": 556,
+      "text": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington",
+      "category": "kindness"
+    },
+    {
+      "id": 557,
+      "text": "Human kindness has never weakened the stamina or softened the fiber of a free people.",
+      "author": "Franklin D. Roosevelt",
+      "category": "kindness"
+    },
+    {
+      "id": 558,
+      "text": "Unexpected kindness is the most powerful, least costly, and most underrated agent of human change.",
+      "author": "Bob Kerrey",
+      "category": "kindness"
+    },
+    {
+      "id": 559,
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu",
+      "category": "kindness"
+    },
+    {
+      "id": 560,
+      "text": "Kindness is always fashionable, and always welcome.",
+      "author": "Amelia Barr",
+      "category": "kindness"
+    },
+    {
+      "id": 561,
+      "text": "Immature love says I love you because I need you. Mature love says I need you because I love you.",
+      "author": "Erich Fromm",
+      "category": "love"
+    },
+    {
+      "id": 562,
+      "text": "Love is the flower you've got to let grow.",
+      "author": "John Lennon",
+      "category": "love"
+    },
+    {
+      "id": 563,
+      "text": "The greatest thing you'll ever learn is just to love and be loved in return.",
+      "author": "eden ahbez",
+      "category": "love"
+    },
+    {
+      "id": 564,
+      "text": "To love and be loved is to feel the sun from both sides.",
+      "author": "David Viscott",
+      "category": "love"
+    },
+    {
+      "id": 565,
+      "text": "Love is when the other person's happiness is more important than your own.",
+      "author": "H. Jackson Brown Jr.",
+      "category": "love"
+    },
+    {
+      "id": 566,
+      "text": "At the touch of love, everyone becomes a poet.",
+      "author": "Plato",
+      "category": "love"
+    },
+    {
+      "id": 567,
+      "text": "The giving of love is an education in itself.",
+      "author": "Eleanor Roosevelt",
+      "category": "love"
+    },
+    {
+      "id": 568,
+      "text": "Love is the only gold.",
+      "author": "Alfred Lord Tennyson",
+      "category": "love"
+    },
+    {
+      "id": 569,
+      "text": "The best use of life is love. The best expression of love is time.",
+      "author": "Rick Warren",
+      "category": "love"
+    },
+    {
+      "id": 570,
+      "text": "Love is the master key that opens the gates of happiness.",
+      "author": "Oliver Wendell Holmes",
+      "category": "love"
+    },
+    {
+      "id": 571,
+      "text": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+      "author": "Scott Adams",
+      "category": "creativity"
+    },
+    {
+      "id": 572,
+      "text": "The creative person is willing to live with ambiguity. They don't need problems solved immediately.",
+      "author": "Abe Tannenbaum",
+      "category": "creativity"
+    },
+    {
+      "id": 573,
+      "text": "Clean out a corner of your mind and creativity will instantly fill it.",
+      "author": "Dee Hock",
+      "category": "creativity"
+    },
+    {
+      "id": 574,
+      "text": "Think left and think right and think low and think high. Oh, the thinks you can think up if only you try.",
+      "author": "Dr. Seuss",
+      "category": "creativity"
+    },
+    {
+      "id": 575,
+      "text": "Creativity is just connecting things.",
+      "author": "Steve Jobs",
+      "category": "creativity"
+    },
+    {
+      "id": 576,
+      "text": "The secret to creativity is knowing how to hide your sources.",
+      "author": "Albert Einstein",
+      "category": "creativity"
+    },
+    {
+      "id": 577,
+      "text": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+      "author": "Pablo Picasso",
+      "category": "creativity"
+    },
+    {
+      "id": 578,
+      "text": "The creative adult is the child who survived.",
+      "author": "Ursula K. Le Guin",
+      "category": "creativity"
+    },
+    {
+      "id": 579,
+      "text": "To live a creative life, we must lose our fear of being wrong.",
+      "author": "Joseph Chilton Pearce",
+      "category": "creativity"
+    },
+    {
+      "id": 580,
+      "text": "Art enables us to find ourselves and lose ourselves at the same time.",
+      "author": "Thomas Merton",
+      "category": "creativity"
+    },
+    {
+      "id": 581,
+      "text": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 582,
+      "text": "If someone is able to show me that what I think or do is not right, I will happily change.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 583,
+      "text": "Do not indulge in dreams of having what you have not, but reckon up the chief blessings you do possess.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 584,
+      "text": "When you arise in the morning, think of what a precious privilege it is to be alive.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 585,
+      "text": "The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 586,
+      "text": "He suffers more than necessary who suffers before it is necessary.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 587,
+      "text": "Begin at once to live and count each day as a separate life.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 588,
+      "text": "Receive without pride, abandon without struggle.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 589,
+      "text": "The best revenge is to be unlike him who performed the injury.",
+      "author": "Marcus Aurelius",
+      "category": "stoicism"
+    },
+    {
+      "id": 590,
+      "text": "It's not because things are difficult that we dare not venture. It's because we dare not venture that they are difficult.",
+      "author": "Seneca",
+      "category": "stoicism"
+    },
+    {
+      "id": 591,
+      "text": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 592,
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 593,
+      "text": "You must do the thing you think you cannot do.",
+      "author": "Eleanor Roosevelt",
+      "category": "courage"
+    },
+    {
+      "id": 594,
+      "text": "Real courage is when you know you're licked before you begin, but you begin anyway.",
+      "author": "Harper Lee",
+      "category": "courage"
+    },
+    {
+      "id": 595,
+      "text": "Leap and the net will appear.",
+      "author": "John Burroughs",
+      "category": "courage"
+    },
+    {
+      "id": 596,
+      "text": "The question isn't who is going to let me; it's who is going to stop me.",
+      "author": "Ayn Rand",
+      "category": "courage"
+    },
+    {
+      "id": 597,
+      "text": "Don't be afraid to give up the good to go for the great.",
+      "author": "John D. Rockefeller",
+      "category": "courage"
+    },
+    {
+      "id": 598,
+      "text": "Take the risk or lose the chance.",
+      "author": "Unknown",
+      "category": "courage"
+    },
+    {
+      "id": 599,
+      "text": "Everything you've ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "category": "courage"
+    },
+    {
+      "id": 600,
+      "text": "Light tomorrow with today.",
+      "author": "Elizabeth Barrett Browning",
+      "category": "wisdom"
+    }
+  ]
+}
