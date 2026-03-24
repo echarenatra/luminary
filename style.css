@@ -696,6 +696,15 @@ svg[hidden] {
   animation: slideInRight 300ms var(--ease-out) forwards;
 }
 
+/* Reverse direction for prev */
+.quote-card.is-reverse.is-exiting {
+  animation: slideOutRight 200ms var(--ease-out) forwards;
+}
+
+.quote-card.is-reverse.is-entering {
+  animation: slideInLeft 300ms var(--ease-out) forwards;
+}
+
 @keyframes slideOutLeft {
   from { transform: translateX(0);     opacity: 1; }
   to   { transform: translateX(-48px); opacity: 0; }
@@ -703,6 +712,16 @@ svg[hidden] {
 
 @keyframes slideInRight {
   from { transform: translateX(48px);  opacity: 0; }
+  to   { transform: translateX(0);     opacity: 1; }
+}
+
+@keyframes slideOutRight {
+  from { transform: translateX(0);    opacity: 1; }
+  to   { transform: translateX(48px); opacity: 0; }
+}
+
+@keyframes slideInLeft {
+  from { transform: translateX(-48px); opacity: 0; }
   to   { transform: translateX(0);     opacity: 1; }
 }
 

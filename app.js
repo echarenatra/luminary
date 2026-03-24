@@ -142,6 +142,13 @@
 
     state.isAnimating = true;
 
+    // Set direction for animation
+    if (direction === 'prev') {
+      card.classList.add('is-reverse');
+    } else {
+      card.classList.remove('is-reverse');
+    }
+
     // Exit animation
     card.classList.add('is-exiting');
 
@@ -167,7 +174,7 @@
       card.classList.add('is-entering');
 
       setTimeout(() => {
-        card.classList.remove('is-entering');
+        card.classList.remove('is-entering', 'is-reverse');
         state.isAnimating = false;
       }, 300);
 
